@@ -4,13 +4,13 @@
       "id": 1,
       "username": "helloworld",
       "firstname": "hello",
-      "lastname": "world",
+      "lastname": "world"
     },
     {
       "id": 2,
       "username": "hiworld",
       "firstname": "hi",
-      "lastname": "world",
+      "lastname": "world"
     }
   ]
 }
