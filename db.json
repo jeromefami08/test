@@ -6,8 +6,8 @@
       "last_name": "Uy",
       "birth_day": "01/31/1991",
       "email": "bob_uy@gmail.com",
-      "phone": "09111234123",
-      "address": "123 Sto. Cristo Street, Tondo Manila",
+      "phone": "0911-0676-554",
+      "address": "4 Santo Cristo Street, Tondo Manila",
       "contact_person_id": 1
     },
     {
@@ -16,9 +16,19 @@
       "last_name": "Da",
       "birth_day": "05/22/1967",
       "email": "john_da@gmail.com",
-      "phone": "09121234123",
-      "address": "123 Sto. Cristo Street, Tondo Manila",
+      "phone": "0912-1234-068",
+      "address": "362 Balagtas Street, Carigara Leyte",
       "contact_person_id": 2
+    },
+    {
+      "id": 3,
+      "first_name": "Betsy",
+      "last_name": "Bach",
+      "birth_day": "11/22/2003",
+      "email": "betsy_bach@gmail.com",
+      "phone": "555-2811",
+      "address": "4816 Google Street, Yahoo City",
+      "contact_person_id": NULL
     }
   ],
   "Contact_Persons": [
@@ -26,13 +36,13 @@
       "id": 1,
       "first_name": "Fernando",
       "last_name": "Po",
-      "phone": "09131234123"
+      "phone": "0913-4444-123"
     },
     {
       "id": 2,
       "first_name": "Eli",
       "last_name": "Sabath",
-      "phone": "09141234123"
+      "phone": "0914-1234-231"
     }
   ]
 }
